@@ -1,5 +1,6 @@
 # FUTURE_DS_01
  **Data Cleaning and Exploratory Data Analysis of the Titanic Dataset 🚢**
+ 
 I recently undertook a project to analyze the Titanic dataset, a classic dataset used in data science and machine learning. Here’s a brief overview of the tasks I completed and the insights I gained:
 
 1. **Data Loading and Initial Inspection**:
